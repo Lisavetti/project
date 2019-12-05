@@ -27,8 +27,8 @@
 	L *first3 = 0;
 	L2 *first2 = 0;
 	L2 *element2;
- *****functions.cpp**** 
-  #include "pch.h"
+ ****functions.cpp**** 
+#include "pch.h"
 #include "Header.h"
 using namespace std;
 ofstream output1("1.txt");
@@ -289,7 +289,7 @@ void menu() {
 		cout << "Invalid value" << endl;
 	}
 }
-***Console Application1*****
+***Console Application1***
 #include "pch.h"
 #include "Header.h"
 #include "functions.cpp"
